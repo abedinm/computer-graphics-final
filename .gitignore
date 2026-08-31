@@ -1,0 +1,9 @@
+bin/
+obj/
+*.o
+*.exe
+*.layout
+*.depend
+Thumbs.db
+desktop.ini
+.DS_Store
